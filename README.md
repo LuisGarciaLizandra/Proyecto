@@ -27,7 +27,7 @@ El aprendizaje de la lengua de signos es esencial para la inclusión y accesibil
 
 ## 📷 Capturas de pantalla
 
-Todavia no hay...
+Todavia no hay...&#128546; 
 
 ## 🏗️ Arquitectura del proyecto
 
@@ -78,7 +78,7 @@ cd proyecto-lengua-signos
 
 ## 👥 Contribuidores
 
-👨‍💻 **Luis Garcia Lizandra ** - [GitHub](https://github.com/LuisGarciaLizandra)  
+👨‍💻 **Luis Garcia Lizandra** - [GitHub](https://github.com/LuisGarciaLizandra)  
 👩‍💻 **Mi ayudante 1** - [GitHub](https://github.com/Ayudante1)  
 👨‍💻 **Mi ayudante 2** - [GitHub](https://github.com/Ayudante2)  
 
